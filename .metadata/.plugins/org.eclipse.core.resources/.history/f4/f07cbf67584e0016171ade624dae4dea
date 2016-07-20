@@ -1,0 +1,13 @@
+package com.youmi.controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class XDSLoginController{
+	@RequestMapping("queryNotes.action")
+	public void createNewUser(String uname, String password){
+        System.out.println(uname);
+        System.out.println(password);
+	}
+}
