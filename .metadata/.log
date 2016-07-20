@@ -1,0 +1,13 @@
+!SESSION 2016-07-20 13:59:38.398 -----------------------------------------------
+eclipse.buildId=4.5.1.M20150904-0015
+java.version=1.8.0_60
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=zh_CN
+Framework arguments:  -product org.eclipse.epp.package.jee.product -keyring /Users/zhengda/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.jee.product -keyring /Users/zhengda/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-07-20 14:32:32.916
+!MESSAGE cacheFile=file:/Applications/Eclipse.app/Contents/MacOS/file:/Applications/Eclipse.app/Contents/Eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.jst.server.preview.adapter 4 0 2016-07-20 14:59:53.534
+!MESSAGE Port 8080 required by J2EE Preview at localhost is already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).

@@ -1,0 +1,5 @@
+package com.youmi.controllers;
+
+public class HelloWorld {
+
+}
